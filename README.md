@@ -2,6 +2,10 @@
 
 ## Android
 
+### Overview
+
+![](android/overview800w.gif)
+
 ### Authentication (login, logout and register) [Customer | Store]
 
 ![](android/video1800w.gif)
